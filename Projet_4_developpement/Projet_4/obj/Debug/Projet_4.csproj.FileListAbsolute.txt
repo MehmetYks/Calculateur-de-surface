@@ -1,0 +1,7 @@
+C:\Users\y-meh\OneDrive\Bureau\projet\projet_dev\C#\Projet_4_developpement\Projet_4\bin\Debug\Projet_4.exe.config
+C:\Users\y-meh\OneDrive\Bureau\projet\projet_dev\C#\Projet_4_developpement\Projet_4\bin\Debug\Projet_4.exe
+C:\Users\y-meh\OneDrive\Bureau\projet\projet_dev\C#\Projet_4_developpement\Projet_4\bin\Debug\Projet_4.pdb
+C:\Users\y-meh\OneDrive\Bureau\projet\projet_dev\C#\Projet_4_developpement\Projet_4\obj\Debug\Projet_4.csproj.AssemblyReference.cache
+C:\Users\y-meh\OneDrive\Bureau\projet\projet_dev\C#\Projet_4_developpement\Projet_4\obj\Debug\Projet_4.csproj.CoreCompileInputs.cache
+C:\Users\y-meh\OneDrive\Bureau\projet\projet_dev\C#\Projet_4_developpement\Projet_4\obj\Debug\Projet_4.exe
+C:\Users\y-meh\OneDrive\Bureau\projet\projet_dev\C#\Projet_4_developpement\Projet_4\obj\Debug\Projet_4.pdb
