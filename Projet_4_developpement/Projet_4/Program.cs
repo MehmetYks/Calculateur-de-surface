@@ -43,60 +43,28 @@ namespace Projet_4
                     "carré", "triangle", "disque"
                 };
 
-                // mauvais parcours enfaite il faut faire un parcour par indice ici il prend directement l'element
-                /*
-                foreach (var element in reponse)
-                {
-                    Console.Write(element);
-                    string mot = "";
-                    if (!element.Equals(" "))
-                    {
-                        if (!element.Equals("."))
-                        {
-                            mot += element;
-                        }
-                        
-                    }
-                    else
-                    {
-                        mot_reponse.Add(mot);
-                        mot = "";
-                    }
-
-                }
-                */
-
-                // bon parcours avec indice 
+             
                 string mot = "";
                 for (int i = 0; i < reponse.Length; i++)
-                {
-                    Console.WriteLine(reponse[i]+" //");
-                    
+                {                    
                     if (reponse[i] != ' ')
                     {
-                        Console.WriteLine(reponse[i]+" /////");
                         if (reponse[i] != '.')
                         {
                             mot += reponse[i];
                         }
                         if (i == reponse.Length - 1)
                         {
-                            Console.WriteLine(mot + "  -------fin");
                             mot_reponse.Add(mot);
                             mot = "";
                         }
                     }
                     else
                     {
-                        
-                        Console.WriteLine(mot+"  -------");
                         mot_reponse.Add(mot);
                         mot = "";
                     }
                 }
-
-
-
                 
                 foreach (var forme in formes)
                 {
@@ -112,7 +80,7 @@ namespace Projet_4
                         }
                         else if (forme == "triangle")
                         {
-                            Console.Write("Donner la valeur de la base de triangle : ");
+                            Console.Write("Donner la valeur de la base du triangle : ");
                             int ba = Convert.ToInt32(Console.ReadLine());
 
                             Console.Write("Donner la valeur de la hauteur du triangle: ");
@@ -129,10 +97,6 @@ namespace Projet_4
                             double val = disque(r);
                             Console.WriteLine($"La surface de ce disque est de {val} m²");
                         }
-                    }
-                    else
-                    {
-                        Console.WriteLine("La forme n'a pas pu être trouver");
                     }
                 }
                 
