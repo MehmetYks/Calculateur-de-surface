@@ -1,0 +1,7 @@
+C:\Users\y-meh\OneDrive\Bureau\projet\projet_dev\C#\Projet_calcul_surface\Projet_surface\bin\Debug\Projet_surface.exe.config
+C:\Users\y-meh\OneDrive\Bureau\projet\projet_dev\C#\Projet_calcul_surface\Projet_surface\bin\Debug\Projet_surface.exe
+C:\Users\y-meh\OneDrive\Bureau\projet\projet_dev\C#\Projet_calcul_surface\Projet_surface\bin\Debug\Projet_surface.pdb
+C:\Users\y-meh\OneDrive\Bureau\projet\projet_dev\C#\Projet_calcul_surface\Projet_surface\obj\Debug\Projet_surface.csproj.AssemblyReference.cache
+C:\Users\y-meh\OneDrive\Bureau\projet\projet_dev\C#\Projet_calcul_surface\Projet_surface\obj\Debug\Projet_surface.csproj.CoreCompileInputs.cache
+C:\Users\y-meh\OneDrive\Bureau\projet\projet_dev\C#\Projet_calcul_surface\Projet_surface\obj\Debug\Projet_surface.exe
+C:\Users\y-meh\OneDrive\Bureau\projet\projet_dev\C#\Projet_calcul_surface\Projet_surface\obj\Debug\Projet_surface.pdb
